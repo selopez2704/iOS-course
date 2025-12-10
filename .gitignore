@@ -61,3 +61,14 @@ Icon
 .DS_Store
 iOS-course.xcodeproj/project.xcworkspace/xcuserdata/sebastianlopezmazo.xcuserdatad/UserInterfaceState.xcuserstate
 *.xcuserstate
+
+### Archivos específicos de usuario de Xcode ###
+
+# Ignora las carpetas de datos específicos de tu cuenta de usuario de Xcode
+# que se encuentran dentro del proyecto (ej. Breakpoints, Tasks, etc.).
+# Esto es esencial.
+*.xcodeproj/xcuserdata/
+
+# Ignora los archivos de estado de la interfaz del usuario dentro del workspace
+# (tu problema específico: UserInterfaceState.xcuserstate)
+*.xcworkspace/xcuserdata/
