@@ -58,3 +58,5 @@ fastlane/test_output
 .DS_Store
 .Trashes
 Icon
+.DS_Store
+iOS-course.xcodeproj/project.xcworkspace/xcuserdata/sebastianlopezmazo.xcuserdatad/UserInterfaceState.xcuserstate
