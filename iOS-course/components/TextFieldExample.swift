@@ -54,5 +54,6 @@ struct InfoField: View {
 }
 
 #Preview {
-    FormExample()
+//    FormExample()
+    TextFieldExample()
 }
